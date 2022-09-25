@@ -1,2 +1,2 @@
 My first readme
-Just to see whats like out here,thank you.
+Just to see what's like out here,thank you.
